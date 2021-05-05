@@ -1,0 +1,16 @@
+.Footer {
+  padding: 1rem;
+  background: dodgerblue;
+  display: flex;
+  flex-grow: 2;
+  justify-content: center;
+  align-items: center;
+  img {
+    display: flex;
+    width: 1rem;
+    height: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin: 0.4rem;
+  }
+}
